@@ -1,0 +1,101 @@
+
+section{
+    background-image: url(../Images/cryptocurrency.jpeg);
+    background-position: center;
+    padding: 0 0 20%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.process{
+    margin-top: 160px;
+}
+.crypto{
+    margin-top: 35px;
+}
+.table{
+    margin-left: auto;
+    margin-right: auto; 
+}
+th{
+    background-color:#F2CEDA;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    padding: 15px;
+    text-align: center;
+}
+tr:nth-child(even) {background-color: #f2f2f2;}
+td{
+    font-family: 'Montserrat', sans-serif;
+    padding: 15px;
+    text-align: center;
+}
+p{
+    
+    font-family: 'Montserrat', sans-serif;
+    line-height: 2;
+    margin: 40px 20px 30px
+}
+.p2{
+    text-align: left;
+}
+.mine{
+    margin: 20px 30px;
+}
+h1{ 
+    font-size: 34;
+    font-family: 'Exo', sans-serif;
+    color:#7e7e7e;
+    text-align: center; 
+    border-bottom: #F2CEDA; 
+}
+h1:after {
+    background: none repeat scroll 0 0 #F2CEDA;
+    bottom: -10px;
+    content: "";
+    display: block;
+    height: 10px;
+    position: relative;
+    width: auto;
+ }
+h2{
+    font-family: 'Exo', sans-serif;
+    color: rgb(97, 95, 95);
+    text-align: center;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+}
+
+h4{
+    font-family: 'Montserrat', sans-serif;
+}
+
+nav{ 
+    margin: auto; 
+	background: #F2CEDA; 
+    color: white; 
+} 
+ 
+nav ul{ 
+    text-align: right;
+    list-style: none;
+} 
+ 
+nav ul li{ 
+	display:  inline-block; 
+    padding: 15px 30px;
+} 
+nav ul li :hover{
+    background-color:rgb(235, 240, 238);
+    transition: 1s;
+}
+
+nav a{
+    text-decoration: none;
+    color:black;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16;
+}
+img{
+    margin: 30px 20px
+}
